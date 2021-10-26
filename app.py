@@ -2,6 +2,7 @@ from flask import Flask
 
 
 db_uri = "DB_URI"
+updated = "soet"
 
 app = Flask(__name__)
 
