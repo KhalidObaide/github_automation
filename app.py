@@ -1,7 +1,7 @@
 from flask import Flask
 
 
-db_uri = "DB_URI"
+db_uri = "DB_URI_DOES"
 
 app = Flask(__name__)
 
